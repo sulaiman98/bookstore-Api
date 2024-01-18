@@ -1,5 +1,5 @@
 # flask-API_swanpro
-This is a Basic Flask CRUD API
+This is a Basic Bookstore Flask CRUD API.
 
 ## Clone the repo
 ```
